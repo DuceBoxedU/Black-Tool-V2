@@ -1,0 +1,8 @@
+
+         ([I saved the token info for you in this file!])
+            [User ID]      :   [1035976632189599775]
+            [User Name]    :   [BlackToolV2Test#7059]
+            [2 Factor]     :   [False]
+            [Email]        :   [toolt423@gmail.com]
+            [Phone number] :   []
+            [Token]        :   [MTAzNTk3NjYzMjE4OTU5OTc3NQ.Gn-AH3.rSKw1IXTlWWXf-2T4tV0tfaWv7mYtCDRVXEZPY]
